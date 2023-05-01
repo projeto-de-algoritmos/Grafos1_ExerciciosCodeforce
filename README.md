@@ -1,4 +1,4 @@
-# GPS
+# Exercícios Codeforce
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
@@ -10,7 +10,7 @@
 | 20/0018205  |  Gabriel Moretti de Souza |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto tem como objetivo resolver alguns exercícios sobre grafos retirados do site [Codeforce](https://codeforces.com/).
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.

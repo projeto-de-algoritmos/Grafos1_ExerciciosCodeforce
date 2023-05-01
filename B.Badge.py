@@ -1,33 +1,37 @@
 from collections import defaultdict
-
-visited = []
+ 
 class Graph(object): 
-    def __init__(self, N):
-        self.N = N
-        self.adj = defaultdict(set)
-
+    def __init__(self):
+        self.adj = defaultdict(list)
+ 
     def adiciona_aresta(self, u, v): 
-        self.adj[u].add(v)
+        self.adj[u].append(v)
+ 
+def bfs(grafo, o, visited): 
+    queue = []
+    queue.append(o)
+    visited[o] = True
+    while queue: 
+        m = queue.pop(0) 
+        for neighbour in grafo.adj[m]:
+            if not visited[neighbour]:
+                visited[neighbour] = True
+                queue.append(neighbour)
+            else: 
+                return neighbour
+    return -1
 
-
-def dfs(grafo, o): 
-    if o not in visited: 
-        visited.append(o)
-        for neighbour in grafo.adj[o]:
-            dfs(grafo, neighbour)
-    else: 
-        print(o)
 
 def main():
     n = int(input())
     numbers = list(map(int, input().split()))
-    grafo = Graph(n)
-    for i in range(len(numbers)): 
+    grafo = Graph()
+    visited = []
+    for i in range(n): 
         grafo.adiciona_aresta(i+1, numbers[i])
     for i in range(n):
-        visited.clear()
-        dfs(grafo, i+1)
-    
-
+        visited = [False] * (n+2)
+        print(bfs(grafo, i+1, visited))
+ 
 if __name__ == '__main__': 
     main()

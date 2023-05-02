@@ -15,8 +15,8 @@ O projeto tem como objetivo resolver alguns exercícios sobre grafos retirados d
 As questões realizadas foram: 
 | Questão | Dificuldade | 
 | ------- | ----------- | 
-[Friendly_Spiders] | 1800
-[Badge]      |  1000
+[Friendly_Spiders](https://codeforces.com/problemset/problem/1775/D)| 1800
+[Badge](https://codeforces.com/contest/1020/problem/B)      |  1000
 [New Year Transportation](https://codeforces.com/problemset/problem/500/A) | 1000
 Garding Friends | 
 
@@ -25,10 +25,10 @@ nos testes, pois deveriam estar devidamente otimizadas para passar em casos de t
 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Seguem enunciados e submissões das questões em capturas de tela
 
 ### Friendly Spiders
-A seguine questão teve como resultado Time Limit Exceeded, pois exigia uma solução muito otimizada.
+A seguine questão teve como resultado Time Limit Exceeded, pois exigia uma solução muito otimizada, mas passou nos casos de teste de exemplo. 
 
 - Enunciado
 
@@ -42,7 +42,7 @@ A seguine questão teve como resultado Time Limit Exceeded, pois exigia uma solu
 ### Badge
 - Enunciado 
 
-![Captura de tela de 2023-05-01 22-27-12](https://user-images.githubusercontent.com/64036847/235560084-fcf3b655-3eca-47df-a9fa-fd4b7a
+![Captura de tela de 2023-05-01 22-27-12](https://user-images.githubusercontent.com/64036847/235561435-19094ed7-87b3-412b-821a-e24bdc8405c2.png)
 
 - Submissão
 
@@ -65,7 +65,6 @@ A seguine questão teve como resultado Time Limit Exceeded, pois exigia uma solu
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: (caso exista)<br>
 Para rodar as questões realizadas nesse projeto basta estar no diretório Grafosq_GPS, ter o python 3 instalado na máquina e executar os códigos com o seguinte comando: 
 
 ``` python3 nome_do_arquivo.py```

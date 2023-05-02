@@ -21,10 +21,34 @@ As questões realizadas foram:
 Garding Friends | 
 
 Apesar de não apresentarem tamanha complexidade, as questões resolvidas demandaram significativo esforço para passar 
-nos testes, pois deveriam estar devidamente otimizadas para passar em casos de teste grandes. 
+nos testes, pois deveriam estar devidamente otimizadas para passar em casos de teste grandes.
+
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Friendly Spiders
+A seguine questão teve como resultado Time Limit Exceeded, pois exigia uma solução muito otimizada.
+
+- Enunciado
+
+![Captura de tela de 2023-05-01 22-34-10](https://user-images.githubusercontent.com/64036847/235561181-7d783d0f-a13a-4334-8555-03648ab9d4e1.png)
+
+![Captura de tela de 2023-05-01 22-34-13](https://user-images.githubusercontent.com/64036847/235561201-258bfe19-a968-4c11-8a35-485c5ac2b435.png)
+
+- Submissão
+![Captura de tela de 2023-05-01 22-35-14](https://user-images.githubusercontent.com/64036847/235561244-7f602772-b03c-40f6-9a78-766546d322e5.png)
+
+### Badge
+- Enunciado 
+
+![Captura de tela de 2023-05-01 22-27-12](https://user-images.githubusercontent.com/64036847/235560084-fcf3b655-3eca-47df-a9fa-fd4b7a
+
+- Submissão
+
+![Captura de tela de 2023-05-01 22-29-15](https://user-images.githubusercontent.com/64036847/235560390-06aad50c-7c97-4992-9cff-10147feefb7f.png)
+74dffa.png)
+
 
 ### Friendly Spiders
 

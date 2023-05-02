@@ -18,7 +18,7 @@ As questões realizadas foram:
 [Friendly_Spiders](https://codeforces.com/problemset/problem/1775/D)| 1800
 [Badge](https://codeforces.com/contest/1020/problem/B)      |  1000
 [New Year Transportation](https://codeforces.com/problemset/problem/500/A) | 1000
-Garding Friends | 
+[Garding Friends](https://codeforces.com/contest/1822/problem/F) | 1700
 
 Apesar de não apresentarem tamanha complexidade, as questões resolvidas demandaram significativo esforço para passar 
 nos testes, pois deveriam estar devidamente otimizadas para passar em casos de teste grandes.
@@ -63,9 +63,17 @@ A seguine questão teve como resultado Time Limit Exceeded, pois exigia uma solu
 
 ![Captura de tela de 2023-05-01 22-20-47](https://user-images.githubusercontent.com/64036847/235559791-79dda3e7-7e43-4340-9c09-fb8bba429400.png)
 
+### Gardening Friends
+
+- Enunciado
+![Screenshot from 2023-05-01 22-56-31](https://user-images.githubusercontent.com/78612945/235563612-a8ea3980-3677-4256-baa4-0f95eae6a813.png)
+
+- Submissão
+![Screenshot from 2023-05-01 23-02-00](https://user-images.githubusercontent.com/78612945/235564075-f0ad2f0a-506e-490f-9f5f-3ad85e71340b.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
-Para rodar as questões realizadas nesse projeto basta estar no diretório Grafosq_GPS, ter o python 3 instalado na máquina e executar os códigos com o seguinte comando: 
+Para rodar as questões realizadas nesse projeto basta estar no diretório Grafos1_ExerciciosCodeforce, ter o python 3 instalado na máquina e executar os códigos com o seguinte comando: 
 
 ``` python3 nome_do_arquivo.py```
 

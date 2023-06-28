@@ -23,6 +23,9 @@ As questões realizadas foram:
 Apesar de não apresentarem tamanha complexidade, as questões resolvidas demandaram significativo esforço para passar 
 nos testes, pois deveriam estar devidamente otimizadas para passar em casos de teste grandes.
 
+## Vídeo
+
+O vídeo se encontra no diretório principal desse repositório, em formato ".mp4".
 
 ## Screenshots
 Seguem enunciados e submissões das questões em capturas de tela
@@ -47,10 +50,6 @@ A seguine questão teve como resultado Time Limit Exceeded, pois exigia uma solu
 - Submissão
 
 ![Captura de tela de 2023-05-01 22-29-15](https://user-images.githubusercontent.com/64036847/235560390-06aad50c-7c97-4992-9cff-10147feefb7f.png)
-74dffa.png)
-
-
-### Friendly Spiders
 
 ### New Year Transportation
 - Enunciado
@@ -67,6 +66,8 @@ A seguine questão teve como resultado Time Limit Exceeded, pois exigia uma solu
 
 - Enunciado
 ![Screenshot from 2023-05-01 22-56-31](https://user-images.githubusercontent.com/78612945/235563612-a8ea3980-3677-4256-baa4-0f95eae6a813.png)
+
+![WhatsApp Image 2023-05-01 at 23 24 20](https://user-images.githubusercontent.com/64036847/235566353-60a43306-e532-4aa3-870b-499b44e0c6f1.jpeg)
 
 - Submissão
 ![Screenshot from 2023-05-01 23-02-00](https://user-images.githubusercontent.com/78612945/235564075-f0ad2f0a-506e-490f-9f5f-3ad85e71340b.png)
